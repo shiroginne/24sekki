@@ -181,7 +181,7 @@
 				};
 			};
 			buildConfigurationList = 51DADB122D23442C0047CCA2 /* Build configuration list for PBXProject "24 sekki" */;
-			compatibilityVersion = "Xcode 15.3";
+			compatibilityVersion = "Xcode 15.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
