@@ -1,0 +1,194 @@
+[
+    {
+        "id": 1,
+        "name_key": "season.risshun.name",
+        "japanese": "立春",
+        "description_key": "season.risshun.description",
+        "start_date": "02-04",
+        "end_date": "02-17"
+    },
+    {
+        "id": 2,
+        "name_key": "season.usui.name",
+        "japanese": "雨水",
+        "description_key": "season.usui.description",
+        "start_date": "02-18",
+        "end_date": "03-05"
+    },
+    {
+        "id": 3,
+        "name_key": "season.keichitsu.name",
+        "japanese": "啓蟄",
+        "description_key": "season.keichitsu.description",
+        "start_date": "03-06",
+        "end_date": "03-20"
+    },
+    {
+        "id": 4,
+        "name_key": "season.shunbun.name",
+        "japanese": "春分",
+        "description_key": "season.shunbun.description",
+        "start_date": "03-21",
+        "end_date": "04-03"
+    },
+    {
+        "id": 5,
+        "name_key": "season.seimei.name",
+        "japanese": "清明",
+        "description_key": "season.seimei.description",
+        "start_date": "04-04",
+        "end_date": "04-20"
+    },
+    {
+        "id": 6,
+        "name_key": "season.kokuu.name",
+        "japanese": "穀雨",
+        "description_key": "season.kokuu.description",
+        "start_date": "04-21",
+        "end_date": "05-05"
+    },
+    {
+        "id": 7,
+        "name_key": "season.rikka.name",
+        "japanese": "立夏",
+        "description_key": "season.rikka.description",
+        "start_date": "05-06",
+        "end_date": "05-20"
+    },
+    {
+        "id": 8,
+        "name_key": "season.shōman.name",
+        "japanese": "小満",
+        "description_key": "season.shōman.description",
+        "start_date": "05-21",
+        "end_date": "06-04"
+    },
+    {
+        "id": 9,
+        "name_key": "season.bōshu.name",
+        "japanese": "芒種",
+        "description_key": "season.bōshu.description",
+        "start_date": "06-05",
+        "end_date": "06-20"
+    },
+    {
+        "id": 10,
+        "name_key": "season.geshi.name",
+        "japanese": "夏至",
+        "description_key": "season.geshi.description",
+        "start_date": "06-21",
+        "end_date": "07-06"
+    },
+    {
+        "id": 11,
+        "name_key": "season.shōsho.name",
+        "japanese": "小暑",
+        "description_key": "season.shōsho.description",
+        "start_date": "07-07",
+        "end_date": "07-22"
+    },
+    {
+        "id": 12,
+        "name_key": "season.taisho.name",
+        "japanese": "大暑",
+        "description_key": "season.taisho.description",
+        "start_date": "07-23",
+        "end_date": "08-07"
+    },
+    {
+        "id": 13,
+        "name_key": "season.risshu.name",
+        "japanese": "立秋",
+        "description_key": "season.risshu.description",
+        "start_date": "08-08",
+        "end_date": "08-22"
+    },
+    {
+        "id": 14,
+        "name_key": "season.shosho.name",
+        "japanese": "処暑",
+        "description_key": "season.shosho.description",
+        "start_date": "08-23",
+        "end_date": "09-06"
+    },
+    {
+        "id": 15,
+        "name_key": "season.hakuro.name",
+        "japanese": "白露",
+        "description_key": "season.hakuro.description",
+        "start_date": "09-07",
+        "end_date": "09-22"
+    },
+    {
+        "id": 16,
+        "name_key": "season.shubun.name",
+        "japanese": "秋分",
+        "description_key": "season.shubun.description",
+        "start_date": "09-23",
+        "end_date": "10-07"
+    },
+    {
+        "id": 17,
+        "name_key": "season.kanro.name",
+        "japanese": "寒露",
+        "description_key": "season.kanro.description",
+        "start_date": "10-08",
+        "end_date": "10-22"
+    },
+    {
+        "id": 18,
+        "name_key": "season.sōkō.name",
+        "japanese": "霜降",
+        "description_key": "season.sōkō.description",
+        "start_date": "10-23",
+        "end_date": "11-07"
+    },
+    {
+        "id": 19,
+        "name_key": "season.rittou.name",
+        "japanese": "立冬",
+        "description_key": "season.rittou.description",
+        "start_date": "11-08",
+        "end_date": "11-21"
+    },
+    {
+        "id": 20,
+        "name_key": "season.shōsetsu.name",
+        "japanese": "小雪",
+        "description_key": "season.shōsetsu.description",
+        "start_date": "11-22",
+        "end_date": "12-07"
+    },
+    {
+        "id": 21,
+        "name_key": "season.taisetsu.name",
+        "japanese": "大雪",
+        "description_key": "season.taisetsu.description",
+        "start_date": "12-08",
+        "end_date": "12-21"
+    },
+    {
+        "id": 22,
+        "name_key": "season.tōji.name",
+        "japanese": "冬至",
+        "description_key": "season.tōji.description",
+        "start_date": "12-22",
+        "end_date": "01-04"
+    },
+    {
+        "id": 23,
+        "name_key": "season.shōkan.name",
+        "japanese": "小寒",
+        "description_key": "season.shōkan.description",
+        "start_date": "01-05",
+        "end_date": "01-19"
+    },
+    {
+        "id": 24,
+        "name_key": "season.daikan.name",
+        "japanese": "大寒",
+        "description_key": "season.daikan.description",
+        "start_date": "01-20",
+        "end_date": "02-03"
+    }
+]

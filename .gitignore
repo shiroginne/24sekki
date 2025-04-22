@@ -1,0 +1,52 @@
+# macOS
+.DS_Store
+
+# Xcode
+*.xcuserstate
+*.hmap
+*.log
+*.swp
+*.ipa
+*.dSYM
+*.dSYM.zip
+DerivedData/
+build/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+
+# Xcode Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+.package.resolved
+
+# CocoaPods
+Pods/
+*.podspec
+*.xcworkspace
+
+# Carthage
+Carthage/
+Carthage/Build/
+Carthage/Checkouts/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Asset catalog artifacts
+*.xcassets/*.imageset/*.DS_Store
+*.xcassets/**/*.png
+
+# Optional: keep only the project.pbxproj file inside xcodeproj
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+
+# Others
+*.preview-thumbnails
