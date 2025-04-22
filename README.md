@@ -3,7 +3,13 @@
 A minimal macOS menu bar app that displays the current **Japanese seasonal period (sekki)** and its name in kanji.  
 Inspired by the [smallseasons.guide](https://smallseasons.guide/) and the traditional **24 solar terms** of the Japanese calendar.
 
+Menu bar screenshot:
+
+<img width="56" alt="Screenshot 2025-04-22 at 11 56 04" src="https://github.com/user-attachments/assets/f0220b2b-446c-434a-b9bb-8040b3d99998" />
+
 ---
+
+
 
 ## ✨ Features
 
