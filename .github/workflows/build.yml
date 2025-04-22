@@ -1,0 +1,34 @@
+name: Build & Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  build:
+    runs-on: macos-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Xcode
+        run: sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
+
+      - name: Build app
+        run: |
+          xcodebuild -scheme "24 Sekki" -configuration Release -derivedDataPath build
+
+      - name: Create .zip
+        run: |
+          mkdir -p output
+          cp -R build/Build/Products/Release/24\ Sekki.app output/
+          cd output && zip -r "24Sekki.zip" "24 Sekki.app"
+
+      - name: Upload release asset
+        uses: softprops/action-gh-release@v1
+        with:
+          files: output/24Sekki.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
