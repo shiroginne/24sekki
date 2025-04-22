@@ -59,7 +59,7 @@ MIT License. See LICENSE for details.
 ### 🌸 Credits
 
 - Inspired by [smallseasons.guide](https://smallseasons.guide/)
-- Translation data based on [Wikipedia: Japanese Calendar]([url](https://en.wikipedia.org/wiki/Japanese_calendar))
+- Translation data based on [Wikipedia: Japanese Calendar](https://en.wikipedia.org/wiki/Japanese_calendar)
 
 ---
 
